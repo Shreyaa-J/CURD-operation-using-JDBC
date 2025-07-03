@@ -5,8 +5,12 @@ This is a Java console-based CRUD application that uses JDBC to connect to a rel
 ✅ Key Features
 
 🧾 Add new student
+
 📄 View all students
+
 🔍 Fetch student by ID
+
 📝 Update student details
+
 ❌ Delete student by ID
 
